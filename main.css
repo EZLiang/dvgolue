@@ -1,11 +1,15 @@
 body {
   background-color: #C0FFEE;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 1em;
+  padding: 0em;
 }
 
 html {
-  background-color: #004E75;
+  background-color: #003040;
   padding: 10em;
   padding-top: 1em;
+}
+
+div#main {
+  padding: 1em;
 }

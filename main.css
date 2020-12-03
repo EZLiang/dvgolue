@@ -8,6 +8,10 @@ html {
   background-color: #003040;
   padding: 10em;
   padding-top: 1em;
+  background-size: 8px 8px;
+  background-image:
+    linear-gradient(to right, #407080 1px, transparent 1px),
+    linear-gradient(to bottom, #407080 1px, transparent 1px);
 }
 
 div#main {
